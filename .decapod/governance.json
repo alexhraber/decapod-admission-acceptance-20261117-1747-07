@@ -24,6 +24,14 @@
       "proof_refs": [
         "acceptance:source-contract-control"
       ]
+    },
+    {
+      "id": "repair-stale-source-projections",
+      "summary": "repair-stale-source-projections",
+      "input_digest": "sha256:8ec36b4883e2346c2146a8173047e7bbf665662316f08ba073500edbab828668",
+      "proof_refs": [
+        "acceptance:source-contract-control"
+      ]
     }
   ],
   "intents": {
@@ -91,7 +99,7 @@
       ],
       "unknowns": [],
       "unresolved_contradictions": [],
-      "updated_at": "1794919978Z"
+      "updated_at": "1794920111Z"
     },
     "trajectory": {
       "active_boundaries": [
