@@ -1,0 +1,26 @@
+{
+  "evidence_digest": "sha256:0b07dd209f150d0a309e57a50f80054dbe2e53d471718612e24a07ba745146c9",
+  "governance_digest": "sha256:05d479afd41a0dd3a7ce80858017f3327f4391856acd4cf12f9f143d5f1e0d7f",
+  "invocation_id": "decapod-readiness-b9hfYh",
+  "kind": "native_readiness_receipt",
+  "laya_readiness_digest": "sha256:4505940fcfe5a8032ae4e213a7dcf239ecd71007ee2add435252e31a989f3b4b",
+  "material": {
+    "accepted_base_revision": "cdcd66b88d522c329c368e63a0a1b82c5463c69c",
+    "base_branch": "main",
+    "candidate_digest": "sha256:1b0b15753cfcfeeeea1e1ff131f787891710739c156947e0116911aaec26b72f",
+    "configuration_digest": "sha256:962eab16b0a1267631c05169bacc82e8e15d744a98bee222cd940f71d4380be2",
+    "head_revision": "ef5f20a676b88c0d380044f29c2981232ba99a68",
+    "history_digest": "sha256:f215be05de3b5c7aee76e7985eea3bd308157022ae34103ff453b16547b115a2",
+    "repository": "alexhraber/decapod-admission-acceptance-20261117-1747-07",
+    "toolchain_digest": "sha256:71d5f74443b2efaa91cf89dde2145b931d3329074602ede0dd906935f6bc4c3a",
+    "tree_digest": "sha256:b02ee8ce0a821b4c2560f42d051a5fbc0e7e5a8851426d3c714ee9c7382de0ce",
+    "work_branch": "agent/real-forge-admission/code_01m7ms0cqky0xs55-repair",
+    "workflow_digest": "sha256:efce3c38fa75fd9e5b2e4dda6436a5cbb30ace668ba35f03bb7abb1e9aba2af5"
+  },
+  "proof_plan_digest": "sha256:e67bc03f2b36a5a1bf54397ac7e7929f9ae6e0df3d4c0603f52d79ae177fccda",
+  "receipt_hash": "sha256:eb0e3d13806f44133290ff731e4b5b0bbf03ccff6cc6b87781e6cf02516e706f",
+  "schema_version": "1.0.0",
+  "scope": "repository_local_readiness",
+  "status": "ok",
+  "trajectory_digest": "sha256:35fe4ffa41ad53b2d1176d451a5f72538a058c11244bf94bd22d18ca92bc9b82"
+}
